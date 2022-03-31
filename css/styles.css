@@ -94,6 +94,10 @@ body {
     float: left;
 }
 
+.text-align {
+    text-align: center;
+}
+
 
 /* Otras clases */
 
